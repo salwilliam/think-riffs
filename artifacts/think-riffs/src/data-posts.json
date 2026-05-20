@@ -11,7 +11,7 @@
       "investing",
       "markets"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2026/02/crypto-rocket.jpg"
+    "featuredImage": "/images/crypto-rocket.jpg"
   },
   {
     "id": 2350,
@@ -25,7 +25,7 @@
       "philosophy",
       "politics"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-2-2026-02_38_29-PM.png"
+    "featuredImage": "/images/ChatGPT-Image-Jan-2-2026-02_38_29-PM.jpg"
   },
   {
     "id": 2261,
@@ -39,7 +39,7 @@
       "investing",
       "markets"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-5-2025-02_41_54-PM.png"
+    "featuredImage": "/images/ChatGPT-Image-Dec-5-2025-02_41_54-PM.jpg"
   },
   {
     "id": 2235,
@@ -53,7 +53,7 @@
       "investing",
       "markets"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-20-2025-02_38_39-PM.png"
+    "featuredImage": "/images/ChatGPT-Image-Nov-20-2025-02_38_39-PM.jpg"
   },
   {
     "id": 2177,
@@ -66,7 +66,7 @@
       "crypto",
       "markets"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-29-2025-01_43_03-PM.png"
+    "featuredImage": "/images/ChatGPT-Image-Sep-29-2025-01_43_03-PM.jpg"
   },
   {
     "id": 2135,
@@ -79,7 +79,7 @@
       "markets",
       "culture"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2025/09/golden-hour.png"
+    "featuredImage": "/images/golden-hour.jpg"
   },
   {
     "id": 2116,
@@ -93,7 +93,7 @@
       "ai",
       "crypto"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2025/07/ChatGPT-Image-Jul-8-2025-06_10_17-PM.png"
+    "featuredImage": "/images/ChatGPT-Image-Jul-8-2025-06_10_17-PM.jpg"
   },
   {
     "id": 2061,
@@ -105,7 +105,7 @@
     "categories": [
       "crypto"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2025/07/ChatGPT-Image-Jul-2-2025-12_51_59-PM.png"
+    "featuredImage": "/images/ChatGPT-Image-Jul-2-2025-12_51_59-PM.jpg"
   },
   {
     "id": 2016,
@@ -118,7 +118,7 @@
       "philosophy",
       "ai"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-12_26_17-PM.png"
+    "featuredImage": "/images/ChatGPT-Image-Jun-30-2025-12_26_17-PM.jpg"
   },
   {
     "id": 1851,
@@ -132,7 +132,7 @@
       "investing",
       "philosophy"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2025/05/Screenshot-2025-05-16-at-5.41.27 PM.png"
+    "featuredImage": "/images/Screenshot-2025-05-16-at-5.41.27 PM.png"
   },
   {
     "id": 1807,
@@ -145,7 +145,7 @@
       "ai",
       "philosophy"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2025/05/Force-of-function-scaled.jpg"
+    "featuredImage": "/images/Force-of-function-scaled.jpg"
   },
   {
     "id": 1671,
@@ -158,7 +158,7 @@
       "investing",
       "crypto"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2025/04/ChatGPT-Image-Apr-16-2025-06_38_00-PM.png"
+    "featuredImage": "/images/ChatGPT-Image-Apr-16-2025-06_38_00-PM.jpg"
   },
   {
     "id": 1630,
@@ -171,7 +171,7 @@
       "investing",
       "crypto"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2025/04/Screenshot-2025-04-04-at-5.14.24 PM.png"
+    "featuredImage": "/images/Screenshot-2025-04-04-at-5.14.24 PM.png"
   },
   {
     "id": 1591,
@@ -183,7 +183,7 @@
     "categories": [
       "sport"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2025/03/DALL·E-2025-03-25-21.43.06-A-wide-comic-book-style-illustration-of-a-realistic-NBA-basketball-player-with-an-athletic-not-overly-muscular-build-wearing-a-modern-basketball-un.webp"
+    "featuredImage": "/images/DALL·E-2025-03-25-21.43.06-A-wide-comic-book-style-illustration-of-a-realistic-NBA-basketball-player-with-an-athletic-not-overly-muscular-build-wearing-a-modern-basketball-un.webp"
   },
   {
     "id": 1536,
@@ -196,7 +196,7 @@
       "crypto",
       "investing"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2025/02/DALL·E-2025-02-06-13.36.13-A-symbolic-digital-painting-of-two-figures-shaking-hands-representing-the-reconciliation-between-traditional-finance-and-Bitcoin.-On-the-left-a-bank-e1738867049123.webp"
+    "featuredImage": "/images/DALL·E-2025-02-06-13.36.13-A-symbolic-digital-painting-of-two-figures-shaking-hands-representing-the-reconciliation-between-traditional-finance-and-Bitcoin.-On-the-left-a-bank-e1738867049123.webp"
   },
   {
     "id": 1514,
@@ -209,7 +209,7 @@
       "crypto",
       "investing"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2024/11/SEC-regulation-blog-post-e1732135977629.webp"
+    "featuredImage": "/images/SEC-regulation-blog-post-e1732135977629.webp"
   },
   {
     "id": 1403,
@@ -222,7 +222,7 @@
       "crypto",
       "ai"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2024/03/Screenshot-2024-03-13-at-4.05.12 PM.png"
+    "featuredImage": "/images/Screenshot-2024-03-13-at-4.05.12 PM.png"
   },
   {
     "id": 1325,
@@ -236,7 +236,7 @@
       "music",
       "sport"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2022/11/illuvium.jpeg"
+    "featuredImage": "/images/illuvium.jpeg"
   },
   {
     "id": 1287,
@@ -248,7 +248,7 @@
     "categories": [
       "art"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2022/05/cactus-scaled.jpeg"
+    "featuredImage": "/images/cactus-scaled.jpeg"
   },
   {
     "id": 1150,
@@ -262,7 +262,7 @@
       "art",
       "investing"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2021/12/web-3-ape.png"
+    "featuredImage": "/images/web-3-ape.jpg"
   },
   {
     "id": 841,
@@ -276,7 +276,7 @@
       "investing",
       "poker"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2021/11/poker.jpeg"
+    "featuredImage": "/images/poker.jpeg"
   },
   {
     "id": 632,
@@ -289,7 +289,7 @@
       "art",
       "poetry"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2021/03/dri-1.png"
+    "featuredImage": "/images/dri-1.jpg"
   },
   {
     "id": 597,
@@ -301,7 +301,7 @@
     "categories": [
       "art"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2020/10/love.jpg"
+    "featuredImage": "/images/love.jpg"
   },
   {
     "id": 6,
@@ -314,7 +314,7 @@
       "poker",
       "sport"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2020/05/20180421_135242-25280-2529.jpg"
+    "featuredImage": "/images/20180421_135242-25280-2529.jpg"
   },
   {
     "id": 9,
@@ -327,7 +327,7 @@
       "art",
       "poker"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2020/05/rounders.jpg"
+    "featuredImage": "/images/rounders.jpg"
   },
   {
     "id": 10,
@@ -339,7 +339,7 @@
     "categories": [
       "poker"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2020/04/moneymaker.jpg"
+    "featuredImage": "/images/moneymaker.jpg"
   },
   {
     "id": 12,
@@ -351,7 +351,7 @@
     "categories": [
       "investing"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2020/03/limbo.jpg"
+    "featuredImage": "/images/limbo.jpg"
   },
   {
     "id": 13,
@@ -363,7 +363,7 @@
     "categories": [
       "sport"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2020/03/sal-2Bat-2Bchilly-e1592326257345.jpg"
+    "featuredImage": "/images/sal-2Bat-2Bchilly-e1592326257345.jpg"
   },
   {
     "id": 14,
@@ -375,7 +375,7 @@
     "categories": [
       "sport"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2020/01/kipchoge.jpg"
+    "featuredImage": "/images/kipchoge.jpg"
   },
   {
     "id": 15,
@@ -387,7 +387,7 @@
     "categories": [
       "sport"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2019/12/IMG_20190805_145442_607.jpg"
+    "featuredImage": "/images/IMG_20190805_145442_607.jpg"
   },
   {
     "id": 16,
@@ -399,7 +399,7 @@
     "categories": [
       "art"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2019/12/Screen-2BShot-2B2020-05-26-2Bat-2B6.18.55-2BPM.png"
+    "featuredImage": "/images/Screen-2BShot-2B2020-05-26-2Bat-2B6.18.55-2BPM.png"
   },
   {
     "id": 21,
@@ -411,7 +411,7 @@
     "categories": [
       "sport"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2019/10/Bruce-2BFrog.jpg"
+    "featuredImage": "/images/Bruce-2BFrog.jpg"
   },
   {
     "id": 23,
@@ -423,7 +423,7 @@
     "categories": [
       "art"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2019/10/Amy-2Band-2BSma-2Bbig-2Bbend.jpg"
+    "featuredImage": "/images/Amy-2Band-2BSma-2Bbig-2Bbend.jpg"
   },
   {
     "id": 24,
@@ -435,7 +435,7 @@
     "categories": [
       "poetry"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2019/08/book-cover.jpg"
+    "featuredImage": "/images/book-cover.jpg"
   },
   {
     "id": 25,
@@ -447,7 +447,7 @@
     "categories": [
       "poetry"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2019/04/Screen-Shot-2020-07-08-at-3.02.20-PM.png"
+    "featuredImage": "/images/Screen-Shot-2020-07-08-at-3.02.20-PM.png"
   },
   {
     "id": 26,
@@ -459,7 +459,7 @@
     "categories": [
       "music"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2019/03/JM.jpg"
+    "featuredImage": "/images/JM.jpg"
   },
   {
     "id": 27,
@@ -484,7 +484,7 @@
       "art",
       "poetry"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2021/03/dri-1.png"
+    "featuredImage": "/images/dri-1.jpg"
   },
   {
     "id": 30,
@@ -497,7 +497,7 @@
       "art",
       "music"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2016/01/blackstart.png"
+    "featuredImage": "/images/blackstart.png"
   },
   {
     "id": 31,
@@ -521,7 +521,7 @@
     "categories": [
       "art"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2014/03/Four-barrel-cafe-in-San-Francisco.jpeg"
+    "featuredImage": "/images/Four-barrel-cafe-in-San-Francisco.jpeg"
   },
   {
     "id": 40,
@@ -534,7 +534,7 @@
       "investing",
       "crypto"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2020/06/chain-of-numbers.jpg"
+    "featuredImage": "/images/chain-of-numbers.jpg"
   },
   {
     "id": 42,
@@ -547,7 +547,7 @@
       "art",
       "crypto"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2021/03/image.png"
+    "featuredImage": "/images/image.png"
   },
   {
     "id": 49,
@@ -584,7 +584,7 @@
     "categories": [
       "art"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2012/09/trapeze.jpg"
+    "featuredImage": "/images/trapeze.jpg"
   },
   {
     "id": 63,
@@ -597,7 +597,7 @@
       "art",
       "investing"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2012/09/aldous-huxley.jpeg"
+    "featuredImage": "/images/aldous-huxley.jpeg"
   },
   {
     "id": 64,
@@ -609,7 +609,7 @@
     "categories": [
       "music"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2012/08/woodstock.png"
+    "featuredImage": "/images/woodstock.png"
   },
   {
     "id": 66,
@@ -621,7 +621,7 @@
     "categories": [
       "investing"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2021/03/image.jpeg"
+    "featuredImage": "/images/image.jpeg"
   },
   {
     "id": 72,
@@ -633,7 +633,7 @@
     "categories": [
       "poetry"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2021/12/sal-with-guitar.jpeg"
+    "featuredImage": "/images/sal-with-guitar.jpeg"
   },
   {
     "id": 74,
@@ -657,7 +657,7 @@
     "categories": [
       "art"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2012/04/group-of-7-billion.png"
+    "featuredImage": "/images/group-of-7-billion.png"
   },
   {
     "id": 84,
@@ -681,7 +681,7 @@
     "categories": [
       "poetry"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2012/02/sun.jpg"
+    "featuredImage": "/images/sun.jpg"
   },
   {
     "id": 95,
@@ -693,7 +693,7 @@
     "categories": [
       "art"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2011/08/Screen-Shot-2022-04-07-at-2.28.28-PM.png"
+    "featuredImage": "/images/Screen-Shot-2022-04-07-at-2.28.28-PM.png"
   },
   {
     "id": 97,
@@ -741,7 +741,7 @@
     "categories": [
       "art"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2010/09/New-Outlook-small-edit.jpeg"
+    "featuredImage": "/images/New-Outlook-small-edit.jpeg"
   },
   {
     "id": 131,
@@ -789,7 +789,7 @@
     "categories": [
       "poetry"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2009/09/moonrise.jpg"
+    "featuredImage": "/images/moonrise.jpg"
   },
   {
     "id": 143,
@@ -801,7 +801,7 @@
     "categories": [
       "art"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2009/03/The-Unexplained.jpeg"
+    "featuredImage": "/images/The-Unexplained.jpeg"
   },
   {
     "id": 144,
@@ -813,7 +813,7 @@
     "categories": [
       "art"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2009/03/amy-cries-out.jpeg"
+    "featuredImage": "/images/amy-cries-out.jpeg"
   },
   {
     "id": 147,
@@ -825,7 +825,7 @@
     "categories": [
       "art"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2009/03/CHIEF-COMMANDA-DANCES.jpeg"
+    "featuredImage": "/images/CHIEF-COMMANDA-DANCES.jpeg"
   },
   {
     "id": 149,
@@ -837,7 +837,7 @@
     "categories": [
       "art"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2009/03/The-Ascension.jpeg"
+    "featuredImage": "/images/The-Ascension.jpeg"
   },
   {
     "id": 150,
@@ -849,7 +849,7 @@
     "categories": [
       "art"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2009/03/The-Resurection.jpeg"
+    "featuredImage": "/images/The-Resurection.jpeg"
   },
   {
     "id": 151,
@@ -861,7 +861,7 @@
     "categories": [
       "art"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2009/03/The-Death-of-Christ.jpeg"
+    "featuredImage": "/images/The-Death-of-Christ.jpeg"
   },
   {
     "id": 155,
@@ -897,7 +897,7 @@
     "categories": [
       "poetry"
     ],
-    "featuredImage": "https://salwilliam.com/wp-content/uploads/2008/03/Anteater-edit-e1592419812887.png"
+    "featuredImage": "/images/Anteater-edit-e1592419812887.png"
   },
   {
     "id": 166,
