@@ -1,6 +1,6 @@
 export const aboutHtml = `
 <div class="about-profile">
-  <img src="https://salwilliam.com/wp-content/uploads/2021/12/07C358C6-3132-4931-AF34-7D44E7B9F70C.jpg" alt="Sal" />
+  <img src="/images/sal-profile.jpg" alt="Sal" />
 </div>
 
 <p><em>Think Riffs</em> is a blog by Salvatore Wm. Delle Palme, startup veteran, poker player, investor, artist, husband, and father of three.</p>
@@ -32,7 +32,7 @@ export const aboutHtml = `
 <p>In 2025, Sal launched <a href="http://SUP3RCYCL3.com" target="_blank" rel="noopener">SUPERCYCLE</a>, a media project delivering concise, actionable reports on crypto trends such as decentralized AI, prediction markets, and the convergence of digital assets with traditional finance.</p>
 
 <figure>
-  <img src="https://salwilliam.com/wp-content/uploads/2020/06/Sal-and-Anse.jpg" alt="Sal and his son, Ansel, with Grandpa Wild Bill Faulkner in the background – Bonnie Springs, Nevada, 2019" />
+  <img src="/images/Sal-and-Anse.jpg" alt="Sal and his son, Ansel, with Grandpa Wild Bill Faulkner in the background – Bonnie Springs, Nevada, 2019" />
   <figcaption>Sal and his son, Ansel, with Grandpa "Wild" Bill Faulkner in the background – Bonnie Springs, Nevada, 2019</figcaption>
 </figure>
 `;

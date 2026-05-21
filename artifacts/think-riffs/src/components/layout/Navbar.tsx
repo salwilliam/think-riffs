@@ -14,7 +14,6 @@ export default function Navbar() {
     { label: "ART", href: "/art", isExternal: false },
     { label: "X", href: "https://x.com/salwilliam", isExternal: true },
     { label: "SUBSTACK", href: "https://salwilliam.substack.com", isExternal: true },
-    { label: "SUPERCYCLE", href: "https://sup3rcycl3.com", isExternal: true },
   ];
 
   return (
