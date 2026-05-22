@@ -18,7 +18,7 @@ export default function PostDetail() {
     window.scrollTo(0, 0);
   }, [slug]);
 
-  if (!post) {
+  if (!post || post.draft) {
     return <NotFound />;
   }
 

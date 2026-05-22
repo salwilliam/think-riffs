@@ -11,7 +11,7 @@ export default function Home() {
   const posts = postsData as Post[];
 
   const filteredPosts = useMemo(() => {
-    let result = posts;
+    let result = posts.filter(post => !post.draft);
     if (selectedCategory) {
       result = result.filter(post => post.categories.includes(selectedCategory));
     }

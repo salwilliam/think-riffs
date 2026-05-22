@@ -598,7 +598,8 @@
     "categories": [
       "art"
     ],
-    "featuredImage": "/images/trapeze.jpg"
+    "featuredImage": "/images/trapeze.jpg",
+    "draft": true
   },
   {
     "id": 63,
@@ -611,7 +612,8 @@
       "art",
       "investing"
     ],
-    "featuredImage": "/images/aldous-huxley.jpeg"
+    "featuredImage": "/images/aldous-huxley.jpeg",
+    "draft": true
   },
   {
     "id": 64,
@@ -623,7 +625,8 @@
     "categories": [
       "music"
     ],
-    "featuredImage": "/images/woodstock.png"
+    "featuredImage": "/images/woodstock.png",
+    "draft": true
   },
   {
     "id": 66,
@@ -635,7 +638,8 @@
     "categories": [
       "investing"
     ],
-    "featuredImage": "/images/image.jpeg"
+    "featuredImage": "/images/image.jpeg",
+    "draft": true
   },
   {
     "id": 72,
@@ -647,7 +651,8 @@
     "categories": [
       "poetry"
     ],
-    "featuredImage": "/images/sal-with-guitar.jpeg"
+    "featuredImage": "/images/sal-with-guitar.jpeg",
+    "draft": true
   },
   {
     "id": 74,
@@ -659,7 +664,8 @@
     "categories": [
       "poetry"
     ],
-    "featuredImage": "/images/blog-when-dreams-die.jpg"
+    "featuredImage": "/images/blog-when-dreams-die.jpg",
+    "draft": true
   },
   {
     "id": 83,
@@ -671,7 +677,8 @@
     "categories": [
       "art"
     ],
-    "featuredImage": "/images/group-of-7-billion.png"
+    "featuredImage": "/images/group-of-7-billion.png",
+    "draft": true
   },
   {
     "id": 84,
@@ -683,7 +690,8 @@
     "categories": [
       "investing"
     ],
-    "featuredImage": "/images/blog-MAKER.jpg"
+    "featuredImage": "/images/blog-MAKER.jpg",
+    "draft": true
   },
   {
     "id": 86,
@@ -695,7 +703,8 @@
     "categories": [
       "poetry"
     ],
-    "featuredImage": "/images/sun.jpg"
+    "featuredImage": "/images/sun.jpg",
+    "draft": true
   },
   {
     "id": 95,
@@ -707,7 +716,8 @@
     "categories": [
       "art"
     ],
-    "featuredImage": "/images/Screen-Shot-2022-04-07-at-2.28.28-PM.png"
+    "featuredImage": "/images/Screen-Shot-2022-04-07-at-2.28.28-PM.png",
+    "draft": true
   },
   {
     "id": 97,
@@ -719,7 +729,8 @@
     "categories": [
       "investing"
     ],
-    "featuredImage": "/images/screw-status-quo-thumb.jpg"
+    "featuredImage": "/images/screw-status-quo-thumb.jpg",
+    "draft": true
   },
   {
     "id": 101,
@@ -731,7 +742,8 @@
     "categories": [
       "poetry"
     ],
-    "featuredImage": null
+    "featuredImage": null,
+    "draft": true
   },
   {
     "id": 114,
@@ -743,7 +755,8 @@
     "categories": [
       "investing"
     ],
-    "featuredImage": null
+    "featuredImage": null,
+    "draft": true
   },
   {
     "id": 129,
@@ -755,7 +768,8 @@
     "categories": [
       "art"
     ],
-    "featuredImage": "/images/New-Outlook-small-edit.jpeg"
+    "featuredImage": "/images/New-Outlook-small-edit.jpeg",
+    "draft": true
   },
   {
     "id": 131,
@@ -767,7 +781,8 @@
     "categories": [
       "poetry"
     ],
-    "featuredImage": null
+    "featuredImage": null,
+    "draft": true
   },
   {
     "id": 133,
@@ -779,7 +794,8 @@
     "categories": [
       "music"
     ],
-    "featuredImage": null
+    "featuredImage": null,
+    "draft": true
   },
   {
     "id": 138,
@@ -791,7 +807,8 @@
     "categories": [
       "poetry"
     ],
-    "featuredImage": null
+    "featuredImage": null,
+    "draft": true
   },
   {
     "id": 141,
@@ -803,7 +820,8 @@
     "categories": [
       "poetry"
     ],
-    "featuredImage": "/images/moonrise.jpg"
+    "featuredImage": "/images/moonrise.jpg",
+    "draft": true
   },
   {
     "id": 143,
@@ -815,7 +833,8 @@
     "categories": [
       "art"
     ],
-    "featuredImage": "/images/The-Unexplained.jpeg"
+    "featuredImage": "/images/The-Unexplained.jpeg",
+    "draft": true
   },
   {
     "id": 144,
@@ -827,7 +846,8 @@
     "categories": [
       "art"
     ],
-    "featuredImage": "/images/amy-cries-out.jpeg"
+    "featuredImage": "/images/amy-cries-out.jpeg",
+    "draft": true
   },
   {
     "id": 147,
@@ -839,7 +859,8 @@
     "categories": [
       "art"
     ],
-    "featuredImage": "/images/CHIEF-COMMANDA-DANCES.jpeg"
+    "featuredImage": "/images/CHIEF-COMMANDA-DANCES.jpeg",
+    "draft": true
   },
   {
     "id": 149,
@@ -851,7 +872,8 @@
     "categories": [
       "art"
     ],
-    "featuredImage": "/images/The-Ascension.jpeg"
+    "featuredImage": "/images/The-Ascension.jpeg",
+    "draft": true
   },
   {
     "id": 150,
@@ -863,7 +885,8 @@
     "categories": [
       "art"
     ],
-    "featuredImage": "/images/The-Resurection.jpeg"
+    "featuredImage": "/images/The-Resurection.jpeg",
+    "draft": true
   },
   {
     "id": 151,
@@ -875,7 +898,8 @@
     "categories": [
       "art"
     ],
-    "featuredImage": "/images/The-Death-of-Christ.jpeg"
+    "featuredImage": "/images/The-Death-of-Christ.jpeg",
+    "draft": true
   },
   {
     "id": 155,
@@ -887,7 +911,8 @@
     "categories": [
       "poetry"
     ],
-    "featuredImage": null
+    "featuredImage": null,
+    "draft": true
   },
   {
     "id": 156,
@@ -899,7 +924,8 @@
     "categories": [
       "poetry"
     ],
-    "featuredImage": null
+    "featuredImage": null,
+    "draft": true
   },
   {
     "id": 157,
@@ -911,7 +937,8 @@
     "categories": [
       "poetry"
     ],
-    "featuredImage": "/images/Anteater-edit-e1592419812887.png"
+    "featuredImage": "/images/Anteater-edit-e1592419812887.png",
+    "draft": true
   },
   {
     "id": 166,
@@ -923,7 +950,8 @@
     "categories": [
       "poetry"
     ],
-    "featuredImage": null
+    "featuredImage": null,
+    "draft": true
   },
   {
     "id": 171,
@@ -935,6 +963,7 @@
     "categories": [
       "poetry"
     ],
-    "featuredImage": null
+    "featuredImage": null,
+    "draft": true
   }
 ]

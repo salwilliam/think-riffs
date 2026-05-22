@@ -7,6 +7,7 @@ export interface Post {
   content: string;
   categories: string[];
   featuredImage: string | null;
+  draft?: boolean;
 }
 
 export const ALL_CATEGORIES = [
