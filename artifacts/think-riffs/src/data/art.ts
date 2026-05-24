@@ -45,4 +45,10 @@ export const artItems: ArtItem[] = [
     imageUrl: "/images/the-universe-doesnt-give-a-fuck.jpg",
     caption: "Photo: John Kraus",
   },
+  {
+    title: "ROUNDING THE BEND",
+    year: "2025",
+    imageUrl: "/images/rounding-the-bend.jpg",
+    caption: "Photo taken in Niagara, Ontario (Photo: Sal)",
+  },
 ];
