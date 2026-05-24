@@ -47,7 +47,7 @@ export const artItems: ArtItem[] = [
   },
   {
     title: "ROUNDING THE BEND",
-    year: "2025",
+    year: "2026",
     imageUrl: "/images/rounding-the-bend.jpg",
     caption: "Photo taken in Niagara, Ontario (Photo: Sal)",
   },
