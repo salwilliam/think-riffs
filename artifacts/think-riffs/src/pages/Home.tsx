@@ -90,7 +90,7 @@ export default function Home() {
                     </span>
                   ))}
                 </div>
-                <h2 className="text-2xl font-serif font-bold text-gray-900 mb-2 leading-tight group-hover:text-accent transition-colors line-clamp-2">
+                <h2 className="text-2xl text-gray-900 mb-2 leading-tight group-hover:text-accent transition-colors line-clamp-2" style={{ fontFamily: "'Faculty Glyphic', sans-serif" }}>
                   {post.title}
                 </h2>
                 <div 
