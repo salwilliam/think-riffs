@@ -55,7 +55,7 @@ export default function PostDetail() {
             ))}
           </div>
           
-          <h1 className="text-3xl md:text-5xl font-serif font-bold text-gray-900 mb-6 leading-tight">
+          <h1 className="text-3xl md:text-5xl text-gray-900 mb-6 leading-tight" style={{ fontFamily: "'Faculty Glyphic', sans-serif" }}>
             {post.title}
           </h1>
           
@@ -66,8 +66,8 @@ export default function PostDetail() {
 
         <div 
           className="prose prose-lg prose-gray max-w-none 
-            prose-headings:font-serif prose-headings:font-bold prose-headings:text-gray-900
-            prose-p:text-gray-700 prose-p:leading-relaxed
+            prose-headings:text-gray-900
+            prose-p:text-gray-700 prose-p:leading-relaxed prose-p:font-sans
             prose-a:text-accent prose-a:no-underline hover:prose-a:underline
             prose-blockquote:border-l-accent prose-blockquote:bg-gray-50 prose-blockquote:py-2 prose-blockquote:px-4 prose-blockquote:rounded-r-lg prose-blockquote:not-italic
             prose-img:rounded-xl prose-img:shadow-sm"
