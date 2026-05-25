@@ -10,11 +10,11 @@ export default function Navbar() {
   return (
     <header className="sticky top-0 z-50 w-full bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/60 border-b border-gray-200">
       <div className="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
-        <Link href="/" className="text-2xl tracking-tight" style={{ fontFamily: "'Gasoek One', sans-serif" }}>
+        <Link href="/" className="text-2xl tracking-tight" style={{ fontFamily: "'Faculty Glyphic', sans-serif" }}>
           Think Riffs
         </Link>
 
-        <nav className="flex items-center gap-4 sm:gap-6">
+        <nav className="flex items-center gap-4 sm:gap-6" style={{ fontFamily: "'Faculty Glyphic', sans-serif" }}>
           {links.map((link) =>
             link.isExternal ? (
               <a
@@ -22,7 +22,7 @@ export default function Navbar() {
                 href={link.href}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-xs sm:text-sm font-semibold tracking-wider text-muted-foreground hover:text-foreground transition-colors"
+                className="text-xs sm:text-sm tracking-wider text-muted-foreground hover:text-foreground transition-colors"
               >
                 {link.label}
               </a>
@@ -30,7 +30,7 @@ export default function Navbar() {
               <Link
                 key={link.label}
                 href={link.href}
-                className="text-xs sm:text-sm font-semibold tracking-wider text-muted-foreground hover:text-foreground transition-colors"
+                className="text-xs sm:text-sm tracking-wider text-muted-foreground hover:text-foreground transition-colors"
               >
                 {link.label}
               </Link>
