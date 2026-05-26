@@ -35,35 +35,35 @@
 }
 
 :root {
-  --background: 210 32% 93%; /* #e8eef4 */
-  --foreground: 222 47% 11%;
-  
+  --background: 210 100% 80%; /* #9cf light sky blue */
+  --foreground: 210 50% 12%;
+
   --card: 0 0% 100%;
-  --card-foreground: 222 47% 11%;
-  --card-border: 214 32% 91%;
+  --card-foreground: 210 50% 12%;
+  --card-border: 199 50% 82%;
 
   --popover: 0 0% 100%;
-  --popover-foreground: 222 47% 11%;
-  --popover-border: 214 32% 91%;
+  --popover-foreground: 210 50% 12%;
+  --popover-border: 199 50% 82%;
 
-  --primary: 349 80% 53%; /* #e8274b */
+  --primary: 206 80% 38%; /* deep sky blue accent */
   --primary-foreground: 0 0% 100%;
 
-  --secondary: 210 40% 96.1%;
-  --secondary-foreground: 222.2 47.4% 11.2%;
+  --secondary: 199 50% 93%;
+  --secondary-foreground: 210 50% 12%;
 
-  --muted: 210 40% 96.1%;
-  --muted-foreground: 215.4 16.3% 46.9%;
+  --muted: 199 40% 93%;
+  --muted-foreground: 210 18% 44%;
 
-  --accent: 349 80% 53%;
+  --accent: 206 80% 38%;
   --accent-foreground: 0 0% 100%;
 
   --destructive: 0 84.2% 60.2%;
   --destructive-foreground: 210 40% 98%;
 
-  --border: 214.3 31.8% 91.4%;
-  --input: 214.3 31.8% 91.4%;
-  --ring: 222.2 84% 4.9%;
+  --border: 199 40% 84%;
+  --input: 199 40% 84%;
+  --ring: 206 80% 38%;
 
   --radius: 0.5rem;
 
