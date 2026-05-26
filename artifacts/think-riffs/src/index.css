@@ -35,7 +35,7 @@
 }
 
 :root {
-  --background: 210 100% 80%; /* #9cf light sky blue */
+  --background: 210 32% 93%; /* #e8eef4 original blue-gray */
   --foreground: 210 50% 12%;
 
   --card: 0 0% 100%;
@@ -46,8 +46,8 @@
   --popover-foreground: 210 50% 12%;
   --popover-border: 199 50% 82%;
 
-  --primary: 206 80% 38%; /* deep sky blue accent */
-  --primary-foreground: 0 0% 100%;
+  --primary: 210 70% 78%; /* matches navbar */
+  --primary-foreground: 210 50% 12%;
 
   --secondary: 199 50% 93%;
   --secondary-foreground: 210 50% 12%;
@@ -55,8 +55,8 @@
   --muted: 199 40% 93%;
   --muted-foreground: 210 18% 44%;
 
-  --accent: 206 80% 38%;
-  --accent-foreground: 0 0% 100%;
+  --accent: 210 70% 78%; /* matches navbar */
+  --accent-foreground: 210 50% 12%;
 
   --destructive: 0 84.2% 60.2%;
   --destructive-foreground: 210 40% 98%;
