@@ -31,7 +31,7 @@ export default function Home() {
           onClick={() => setSelectedCategory(null)}
           className={`px-3 py-1.5 text-xs font-bold uppercase tracking-wider rounded-md transition-colors ${
             selectedCategory === null 
-              ? "bg-accent text-white" 
+              ? "bg-accent text-black" 
               : "bg-white text-muted-foreground hover:bg-gray-100 border border-gray-200"
           }`}
           data-testid="filter-category-all"
@@ -44,7 +44,7 @@ export default function Home() {
             onClick={() => handleCategoryClick(category)}
             className={`px-3 py-1.5 text-xs font-bold uppercase tracking-wider rounded-md transition-colors ${
               selectedCategory === category 
-                ? "bg-accent text-white" 
+                ? "bg-accent text-black" 
                 : "bg-white text-muted-foreground hover:bg-gray-100 border border-gray-200"
             }`}
             data-testid={`filter-category-${category}`}
