@@ -115,4 +115,10 @@
     font-family: 'Faculty Glyphic', sans-serif;
     font-weight: normal;
   }
+  .divider {
+    text-align: center;
+    font-size: 1.5rem;
+    color: black;
+    line-height: 1;
+  }
 }
