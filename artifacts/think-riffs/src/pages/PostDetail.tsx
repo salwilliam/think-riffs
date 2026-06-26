@@ -5,6 +5,7 @@ import { ChevronLeft } from "lucide-react";
 import postsData from "@/data-posts.json";
 import { Post } from "@/data/types";
 import NotFound from "./not-found";
+import SubscribeInline from "@/components/subscribe/SubscribeInline";
 
 export default function PostDetail() {
   const params = useParams();
@@ -73,6 +74,7 @@ export default function PostDetail() {
             prose-img:rounded-xl prose-img:shadow-sm"
           dangerouslySetInnerHTML={{ __html: post.content }} 
         />
+        <SubscribeInline />
       </div>
     </article>
   );

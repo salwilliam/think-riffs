@@ -6,7 +6,10 @@ import Home from "@/pages/Home";
 import PostDetail from "@/pages/PostDetail";
 import About from "@/pages/About";
 import Art from "@/pages/Art";
+import Drafts from "@/pages/Drafts";
+import DraftPostDetail from "@/pages/DraftPostDetail";
 import Navbar from "@/components/layout/Navbar";
+import SubscribePill from "@/components/subscribe/SubscribePill";
 
 function Router() {
   return (
@@ -15,6 +18,8 @@ function Router() {
       <Route path="/post/:slug" component={PostDetail} />
       <Route path="/about" component={About} />
       <Route path="/art" component={Art} />
+      <Route path="/drafts" component={Drafts} />
+      <Route path="/draft-preview/:slug" component={DraftPostDetail} />
       <Route component={NotFound} />
     </Switch>
   );
@@ -29,6 +34,7 @@ function App() {
           <main className="flex-1 w-full max-w-6xl mx-auto px-4 py-8">
             <Router />
           </main>
+          <SubscribePill />
         </div>
       </WouterRouter>
       <Toaster />
