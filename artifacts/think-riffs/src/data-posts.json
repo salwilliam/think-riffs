@@ -1,5 +1,19 @@
 [
   {
+    "id": 2402,
+    "slug": "redbirds",
+    "date": "2026-11-02",
+    "title": "REDBIRDS — My First Short Film",
+    "excerpt": "REDBIRDS, my first short film, premieres Nov 13th at 7 PM ET on YouTube. A nostalgic neo-noir look at an aging gambler and the poker world of the late 20th century.",
+    "content": "<p>REDBIRDS, my first short film, premieres Nov 13th at 7 PM ET on YouTube.</p>\n<p>A nostalgic neo-noir look at an aging gambler and the poker world of the late 20th century.</p>\n<p>Made with AI tools on a $100 budget. 6 mins.</p>\n<p>Set your reminder &amp; subscribe:<br /><a href=\"https://www.youtube.com/watch?v=bKtuE678KwE\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.youtube.com/watch?v=bKtuE678KwE</a></p>\n<figure><a href=\"https://www.youtube.com/watch?v=bKtuE678KwE\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/redbirds-poster.jpg\" alt=\"REDBIRDS — a film by Salvatore Delle Palme. Raising the stakes is the only play he has left.\" width=\"1024\" height=\"1536\" loading=\"lazy\" /></a></figure>",
+    "categories": [
+      "art",
+      "ai",
+      "poker"
+    ],
+    "featuredImage": "/images/redbirds-premiere.jpg"
+  },
+  {
     "id": 2400,
     "slug": "on-nike-all-i-see-is-upside",
     "date": "2026-05-21",
